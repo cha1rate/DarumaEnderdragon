@@ -1,7 +1,7 @@
 say 更新しました
 
 ## ゲームルールの設定
-# doDaylightCycle ははゲーム開始後にtrueに変更
+# doDaylightCycle はゲーム開始後にtrueに変更
 time set day
 weather clear
 difficulty easy
