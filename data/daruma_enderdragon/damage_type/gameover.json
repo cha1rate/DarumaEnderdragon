@@ -1,0 +1,6 @@
+{
+  "message_id": "gameover",   
+  "exhaustion": 0.1,       
+  "scaling": "never",      
+  "damage_type": "player"  
+}
